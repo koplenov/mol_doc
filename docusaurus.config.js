@@ -3,7 +3,7 @@ module.exports = {
   title: '$mol doc',
   tagline: 'Dinosaurs are cool',
   url: 'https://koplenov.github.io/mol_doc/',
-  baseUrl: '/vpage/',
+  baseUrl: '/mol_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

@@ -17,12 +17,12 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/tutorials/intro">
-           Предложить свой V код!
+           Предложить свой код компонента!
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/docs/basics-of-language-V">
-           Основы V
+           Основы $mol
           </Link>
         </div>
       </div>
