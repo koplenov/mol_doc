@@ -42,6 +42,3 @@ for file in config_files {
 Для автономии получаем исполняемый файл командой `v resetCompasConfigs.v`
 
 
-
-Возвращаясь к проблеме, [вот программа-решение](/files/resetCompasConfigs.exe) (для 19 версии)
-
